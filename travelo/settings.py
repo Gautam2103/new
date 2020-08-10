@@ -13,7 +13,7 @@ SECRET_KEY = '2(kg000%wy1hb(*3#f6ph2@fvho#4$+av2$*i=%768**7^c^le'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['furiouscoast.herokuapp.com','127.0.0.1']
 
 
 # Application definition
